@@ -31,7 +31,7 @@ CS50 Game：https://cs50.harvard.edu/games/2018/
 ## 对应 edX 在线（可付费认证）课程
 
 - CS50：https://cs50.edx.org
-- Python programming：https://cs50.edx.org/programs/python
+- Python：https://cs50.edx.org/programs/python
 - 人工智能：https://cs50.edx.org/programs/ai
 - Web开发：https://cs50.edx.org/programs/web
 - 游戏开发：https://cs50.edx.org/programs/games
