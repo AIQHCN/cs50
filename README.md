@@ -10,7 +10,7 @@
 
 课程作业提交进度查询：https://cs50.me/ 或者 https://submit.cs50.io/
 
-作业存放在：https://github.com/me50/USERNAME（USERNAME替换成自己的 GitHub 用户名）
+作业存放在：https://github.com/me50/USERNAME （USERNAME替换成自己的 GitHub 用户名）
 
 完成课程后查看自己获得的证书：https://certificates.cs50.io/ 证书相关说明：https://cs50.harvard.edu/x/2024/certificate/
 
